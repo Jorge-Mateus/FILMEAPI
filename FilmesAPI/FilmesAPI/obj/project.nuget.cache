@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NG0nj7xAIMqxHm5az19VkzD8XgtiWmd2c9J/z4wKxD1RfaGlnptN4ZB4A3PKjq51hDJ2YGUqExgxNaz0qNdpnQ==",
+  "dgSpecHash": "8Caa1Qq8sQW6/NPq6GS2/FtOfJEfvV47zoSUhJSdzaWdK/UbZRpOVjGpIyFOYqTs8eYjX7GVJd+x/V7PxAh2bQ==",
   "success": true,
-  "projectFilePath": "E:\\Usuários\\jorge.nascimento\\source\\repos\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+  "projectFilePath": "E:\\TRABALHO\\FILMEAPI\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
