@@ -7712,38 +7712,31 @@
     ]
   },
   "packageFolders": {
-    "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Mateus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TRABALHO\\FILMEAPI\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Mateus\\Documents\\GitHub\\FILMEAPI\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
       "projectName": "FilmesAPI",
-      "projectPath": "E:\\TRABALHO\\FILMEAPI\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
-      "packagesPath": "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\",
-      "outputPath": "E:\\TRABALHO\\FILMEAPI\\FilmesAPI\\FilmesAPI\\obj\\",
+      "projectPath": "C:\\Users\\Mateus\\Documents\\GitHub\\FILMEAPI\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+      "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mateus\\Documents\\GitHub\\FILMEAPI\\FilmesAPI\\FilmesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "E:\\Usuários\\jorge.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "E:\\RPA\\Biblioteca": {},
-        "T:\\NUCLEOS\\NDSI\\Biblioteca RPA": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7807,7 +7800,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }
