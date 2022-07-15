@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FilmesAPI.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -12,4 +13,3 @@ namespace FilmesAPI.Data.Dtos.Cinema
         public string Nome { get; set; }
     }
 }
-

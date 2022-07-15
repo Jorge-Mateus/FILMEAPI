@@ -1,21 +1,23 @@
-﻿using System;
+﻿using FilmesAPI.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 namespace FilmesAPI.Models
 {
     public class Cinema
     {
         [Key]
+        [Required]
         public int Id { get; set; }
-
-        [Required(ErrorMessage = "O campo nome é obrigatório")]
+        [Required(ErrorMessage = "O campo de nome é obrigatório")]
         public string Nome { get; set; }
-
-        public Endereco Endereco { get; set; }
-
+        //1 Para 1 
+        public virtual Endereco Endereco { get; set; }
         public int EnderecoId { get; set; }
+        //1 Para n ou N para 1
+        public virtual Gerente Gerente { get; set; }
+        public int GerenteId { get; set; }
     }
 }

@@ -94,3 +94,13 @@ C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\r
 C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.pdb
 C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.AssemblyReference.cache
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.AssemblyReference.cache
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfoInputs.cache
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfo.cs
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.CoreCompileInputs.cache
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\ref\FilmesAPI.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.pdb
