@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XNTgpsyCCtx22cJKHIPYTGJN4swNEEyMntsIB+PhieURjmuWxWx/tBZc27ey9c1bROuA8jXGz1EZ8lPuCrH0eA==",
+  "dgSpecHash": "cZtY0TAtRpk3VRfHzGlS57oAOOV587NP9/l/WCnFdhMCfKGXrKPLJkQuTKZQN4ZmZ4uOET1E9kF7Vh4Q96sJBA==",
   "success": true,
   "projectFilePath": "E:\\TRABALHO\\FILMEAPI\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
+    "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\fluentresults\\2.5.0\\fluentresults.2.5.0.nupkg.sha512",
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "E:\\Usuários\\jorge.nascimento\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
