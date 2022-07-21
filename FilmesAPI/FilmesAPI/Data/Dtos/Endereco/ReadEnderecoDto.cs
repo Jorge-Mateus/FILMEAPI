@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace FilmesAPI.Data.Dtos.Endereco
+namespace FilmesAPI.Data.Dtos
 {
     public class ReadEnderecoDto
     {

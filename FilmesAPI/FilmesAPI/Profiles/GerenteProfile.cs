@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using FilmesAPI.Data.Dtos.Gerente;
+using FilmesAPI.Data.Dtos;
 using FilmesAPI.Models;
 using System;
 using System.Collections.Generic;
@@ -13,7 +13,10 @@ namespace FilmesAPI.Profiles
         public GerenteProfile()
         {
             CreateMap<CreateGerenteDtos, Gerente>();
-            CreateMap<Gerente, ReadGerenteDtos>();
+            CreateMap<Gerente, ReadGerenteDtos>()
+                .ForMember(gerente => gerente.Cinemas, opts => opts
+                .MapFrom(gerente => gerente.Cinemas.Select
+                (c => new { c.Id, c.Nome, c.Endereco, c.EnderecoId }))) ;
         }
     }
 }
