@@ -36,10 +36,7 @@ namespace FilmesAPI
             services.AddScoped<SessaoService, SessaoService>();
             services.AddScoped<EnderecoService, EnderecoService>();
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "FilmesAPI", Version = "v1" });
-            });
+            
 
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
         }
