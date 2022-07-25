@@ -2,6 +2,8 @@
 using FilmesAPI.Data;
 using FilmesAPI.Data.Dtos;
 using FilmesAPI.Models;
+using FilmesAPI.Services;
+using FluentResults;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -14,35 +16,37 @@ namespace FilmesAPI.Controllers
     [Route("[Controller]")]
     public class GerenteController : ControllerBase
     {
-        private AppDbContext _context;
-        private IMapper _mapper;
+        private GerenteService _gerenteService;
 
-        public GerenteController(AppDbContext context, IMapper mapper)
+        public GerenteController(GerenteService gerenteService)
         {
-            _context = context;
-            _mapper = mapper;
+            _gerenteService = gerenteService;
         }
 
         [HttpPost]
         public IActionResult AdicionarGerente(CreateGerenteDtos dto)
         {
-            Gerente gerente = _mapper.Map<Gerente>(dto);
-            _context.Gerentes.Add(gerente);
-            _context.SaveChanges();
-            return CreatedAtAction(nameof(RecuperarGerentePorId), new { Id = gerente.Id }, gerente);
+            ReadGerenteDtos readDto = _gerenteService.AdicionarGerente(dto);
+
+            return CreatedAtAction(nameof(RecuperarGerentePorId), new { Id = readDto.Id }, readDto);
         }
 
         [HttpGet("{id}")]
         public IActionResult RecuperarGerentePorId(int id)
         {
-            Gerente gerente = _context.Gerentes.FirstOrDefault(gerente => gerente.Id == id);
-            if (gerente != null)
-            {
-                ReadGerenteDtos filmeDto = _mapper.Map<ReadGerenteDtos>(gerente);
-                return Ok(gerente);
-            }
-
+            ReadGerenteDtos readDto = _gerenteService.RecuperarGerentePorId(id);
+            
+            if (readDto != null) return Ok(readDto);
+           
             return NotFound();
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult DeletaGerente(int id)
+        {
+            Result resultado = _gerenteService.DeleteGerente(id);
+            if (resultado.IsFailed) return NotFound();
+            return NoContent();
         }
 
     }

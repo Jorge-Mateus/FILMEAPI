@@ -169,3 +169,4 @@ E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\scopedcss\bundle\Filme
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.RazorTargetAssemblyInfo.cache
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.CopyComplete
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FluentResults.dll
