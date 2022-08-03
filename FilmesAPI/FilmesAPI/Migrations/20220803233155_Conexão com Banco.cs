@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace FilmesAPI.Migrations
 {
-    public partial class MyFirstMigration : Migration
+    public partial class ConexãocomBanco : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
