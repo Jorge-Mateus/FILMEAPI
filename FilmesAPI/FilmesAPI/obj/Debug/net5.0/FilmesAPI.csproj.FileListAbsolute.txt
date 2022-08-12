@@ -170,3 +170,12 @@ E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.RazorTargetA
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.CopyComplete
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FluentResults.dll
+C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\FluentResults.dll
+C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
