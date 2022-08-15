@@ -136,7 +136,6 @@ E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.IdentityMode
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -179,3 +178,6 @@ C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\M
 C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\FilmesAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll

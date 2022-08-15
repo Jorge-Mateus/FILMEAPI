@@ -12,7 +12,7 @@ namespace UsuarioAPI.Models
         public string Assunto { get; set; }
         public string Conteudo { get; set; }
 
-        public Mensagem(IEnumerable<string> destinatario, string assunto, int usuarioId, string conteudo, string codigo)
+        public Mensagem(IEnumerable<string> destinatario, string assunto, int usuarioId, string codigo)
         {
             Destinatario = new List<MailboxAddress>();
             Destinatario.AddRange(destinatario.Select(d => new MailboxAddress(d)));

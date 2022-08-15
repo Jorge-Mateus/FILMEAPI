@@ -161,3 +161,9 @@ C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\UsuarioAPI\obj\Debug\net5.0\
 C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\UsuarioAPI\obj\Debug\net5.0\ref\UsuarioAPI.dll
 C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\UsuarioAPI\obj\Debug\net5.0\UsuarioAPI.pdb
 C:\Users\Mateus\Documents\GitHub\FILMEAPI\FilmesAPI\UsuarioAPI\obj\Debug\net5.0\UsuarioAPI.genruntimeconfig.cache
+E:\TRABALHO\FILMEAPI\FilmesAPI\UsuarioAPI\bin\Debug\net5.0\FluentResults.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\UsuarioAPI\bin\Debug\net5.0\MailKit.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\UsuarioAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\UsuarioAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\UsuarioAPI\bin\Debug\net5.0\MimeKit.dll
+E:\TRABALHO\FILMEAPI\FilmesAPI\UsuarioAPI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
